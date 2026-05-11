@@ -136,7 +136,7 @@ Click "Install on Smithery" or add via Smithery CLI.
 | **Pro** | $19/mo | Unlimited queries, priority support |
 | **Enterprise** | $99/mo | Custom SLA, dedicated instance |
 
-[Subscribe to Pro →](https://buy.stripe.com/placeholder)
+[Subscribe to Pro →](https://buy.stripe.com/5kQ3cxflRabW9PW1AD1oI0r)
 
 ## 🛠️ Development
 
