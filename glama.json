@@ -1,6 +1,8 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": [
-    "Rumblingb"
-  ]
+  "maintainers": ["Rumblingb"],
+  "description": "Real-time exchange rates — 166 currencies, zero API keys. Convert and fetch rates.",
+  "categories": ["finance"],
+  "license": "MIT",
+  "homepage": "https://rumblingb.github.io/currency-exchange-mcp/"
 }
