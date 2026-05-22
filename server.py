@@ -4,7 +4,7 @@ Currency Exchange MCP Server — Real-time exchange rates via open.er-api.com
 Free, no API key required. 166 currencies. Updates daily.
 """
 import json
-from mcp.server import Server, stdio_server
+from mcp.server.lowlevel import Server, stdio_server
 import httpx
 
 CHARACTER_LIMIT = 25000
